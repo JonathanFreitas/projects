@@ -1,4 +1,4 @@
-# projects
+# Exemplo Tela de Login em PHP
 
 Projeto criado em PHP.
 Exemplo de tela de login, usando banco de dados mysql.
